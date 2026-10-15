@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\zss834\OneDrive - The University of Texas-Rio Grande Valley\Documents\CS3333\0_Course materials\Week04_Project1\2_Stack\main.cpp(92,13): error C2181: illegal else without matching if
+C:\Users\zss834\OneDrive - The University of Texas-Rio Grande Valley\Documents\CS3333\0_Course materials\Week04_Project1\2_Stack\main.cpp(97,13): error C2181: illegal else without matching if
+C:\Users\zss834\OneDrive - The University of Texas-Rio Grande Valley\Documents\CS3333\0_Course materials\Week04_Project1\2_Stack\main.cpp(102,13): error C2181: illegal else without matching if
+C:\Users\zss834\OneDrive - The University of Texas-Rio Grande Valley\Documents\CS3333\0_Course materials\Week04_Project1\2_Stack\main.cpp(107,4): error C2181: illegal else without matching if
+C:\Users\zss834\OneDrive - The University of Texas-Rio Grande Valley\Documents\CS3333\0_Course materials\Week04_Project1\2_Stack\main.cpp(112,9): error C2059: syntax error: '}'
